@@ -6,10 +6,6 @@ Perkenalkan nama saya **Rizat Sakmir**.
 - Saya seorang **WEB Developer** ✨ _Developer PHP And Laravel_ ✨.
 - Saya juga seorang Mahasiswa **Teknologi Informasi** di Universitas Bina Sarana Informatika Semester 5.
 
-Silahkan Kunjungi Channel [Youtube](https://www.youtube.com/channel/UCgVOfzzDlutepqNEcp1kbJA)ku yuk.
-
-Jika kamu tertarik untuk berkenalan denganku, silakan kunjungi Portofolio WEB saya di [Github](https://www.rizatsk.github.io).
-
 ### Tech Stack
   <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
   <a href="https://code.jquery.com/"><img align="left" alt="JQuery" title="JQuery" width="80px" height="21px" src="https://logos-download.com/wp-content/uploads/2016/09/jQuery_logo-700x171.png" /></a>
@@ -27,10 +23,11 @@ Jika kamu tertarik untuk berkenalan denganku, silakan kunjungi Portofolio WEB sa
 </a>
 </p>
 
-### Sosial Media
+### Account
 - [YouTube](https://www.youtube.com/channel/UCgVOfzzDlutepqNEcp1kbJA).
-- [Instagram](https://www.instagram.com/rz.sk/).
+- 📫 [Instagram](https://www.instagram.com/rz.sk/).
 - [Facebook](https://www.facebook.com/rizatsk).
+- 💬 [WhatShapp 0877-8298-7067](https://wa.me/+6287782987067).
 
 
 <!--
