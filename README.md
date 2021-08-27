@@ -1,14 +1,15 @@
-### Hai Selamat Datang Di Github Saya 👋 
+## Hai Selamat Datang Di Github Saya 👋
 
-Perkenalkan nama saya **Rizat Sakmir**.\
 
-Saya seorang **WEB Developer** ✨ _Developer PHP_ And Laravel ✨.\
+Perkenalkan nama saya **Rizat Sakmir**.
 
-Saya juga seorang Mahasiswa **Teknologi Informasi** di Universitas Bina Sarana Informatika Semester 5.\
+Saya seorang **WEB Developer** ✨ _Developer PHP And Laravel_ ✨.
 
-Channel [Youtube](https://www.youtube.com/channel/UCgVOfzzDlutepqNEcp1kbJA).\
+Saya juga seorang Mahasiswa **Teknologi Informasi** di Universitas Bina Sarana Informatika Semester 5.
 
-Jika kamu tertarik untuk berkenalan denganku, silakan kunjungi Portofolio WEB saya di [Gihub](https://www.rizatsk.github.io).
+Silahkan Kunjungi Channel [Youtube](https://www.youtube.com/channel/UCgVOfzzDlutepqNEcp1kbJA)ku yuk.
+
+Jika kamu tertarik untuk berkenalan denganku, silakan kunjungi Portofolio WEB saya di [Github](https://www.rizatsk.github.io).
 
 <!--
 **rizatsk/rizatsk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
