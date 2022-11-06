@@ -3,7 +3,7 @@
 
 Perkenalkan nama saya **Rizat Sakmir**.
 
-- Saya seorang **WEB Developer** ✨ _Developer PHP And Laravel_ ✨.
+- Saya seorang **WEB Developer** ✨ _Developer PHP, Laravel, Javascript, NodeJs, ReactJs_ ✨.
 - Saya juga seorang Mahasiswa **Teknologi Informasi** di Universitas Bina Sarana Informatika Semester 5.
 
 ### Tech Stack
