@@ -3,7 +3,7 @@
 
 Perkenalkan nama saya **Rizat Sakmir**.
 
-- Saya seorang **WEB Developer** ✨ _Developer PHP, Laravel, Javascript, NodeJs, ReactJs_ ✨.
+- Saya seorang **Front End Web Developer And Back End** ✨ _Developer PHP, Laravel, Javascript, NodeJs, ReactJs_ ✨.
 
 ### Tech Stack
   <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
