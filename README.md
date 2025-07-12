@@ -3,7 +3,7 @@
 
 Perkenalkan nama saya **Rizat Sakmir**.
 
-- Saya seorang **Front End Web Developer And Back End** ✨ _Developer PHP, Laravel, Javascript, NodeJs, ReactJs_ ✨.
+- Saya seorang **Front End Web Developer And Back End** ✨ _Developer PHP, Laravel, Javascript,TypeScript, NodeJs, ExpressJs, HapiJs, NestJS, ReactJs, NextJS, Tailwind CSS, GO-Lang ✨.
 
 ### Tech Stack
   <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
@@ -23,7 +23,7 @@ Perkenalkan nama saya **Rizat Sakmir**.
 </p>
 
 ### Account
-- [Web Portofolio rizatsk.github.io](https://rizatsk.github.io).
+- [Web Portofolio rizatsk.github.io](https://rizat.rjshub.com).
 - [YouTube](https://www.youtube.com/channel/UCgVOfzzDlutepqNEcp1kbJA).
 - 📫 [Instagram](https://www.instagram.com/rz.sk/).
 - [Facebook](https://www.facebook.com/rizatsk).
