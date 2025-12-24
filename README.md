@@ -22,7 +22,7 @@ I enjoy exploring new tech stacks 💻—such as Node.js, React/Next.js, React N
 - 📚 In my free time, I enjoy reading fantasy and fiction novels — check out my Goodreads to see what I’ve read
 <br>
 
-<summary><h2>🛠️ My Tools</h2></summary>
+<h2>🛠️ My Tools</h2>
 <h3>👨‍💻 Programming and Markup Languages</h3>
 <p>
   <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
