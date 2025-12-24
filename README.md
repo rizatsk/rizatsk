@@ -19,7 +19,6 @@ I enjoy exploring new tech stacks 💻—such as Node.js, React/Next.js, React N
 - 🌱 Currently learning Golang to deepen backend and microservices expertise
 - 💬 Ask me about anything tech-related — I’m always happy to help and discuss
 - 📫 Feel free to connect with me on [Linkedin](https://linkedin.com/in/rizat-sakmir-7499951a4)
-- 📚 In my free time, I enjoy reading fantasy and fiction novels — check out my Goodreads to see what I’ve read
 <br>
 
 <h2>🛠️ My Tools</h2>
