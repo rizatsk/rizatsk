@@ -38,10 +38,11 @@ I enjoy exploring new tech stacks 💻—such as Node.js, React/Next.js, React N
 
 <h3>🧰 Frameworks and Libraries</h3>
 <p>
-  <a href="#"><img alt="Nest JS" src="https://img.shields.io/badge/Nest-e30000.svg?logo=nestjs&logoColor=white"></a>
-  <a href="#"><img alt="Next JS" src="https://img.shields.io/badge/Next-1f1c1c.svg?logo=nextjs&logoColor=white"></a>
+  <a href="#"><img alt="Nest JS" src="https://img.shields.io/badge/Nest JS-e30000.svg?logo=nestjs&logoColor=white"></a>
+  <a href="#"><img alt="Next JS" src="https://img.shields.io/badge/Next JS-1f1c1c.svg?logo=nextjs&logoColor=white"></a>
   <a href="#"><img alt="Express JS" src="https://img.shields.io/badge/Express JS-404d59.svg?logo=express&logoColor=white"></a>
   <a href="#"><img alt="Hapi.js" src="https://img.shields.io/badge/Hapi%20JS-404d59.svg?logo=hapijs&logoColor=white"></a>
+  <a href="#"><img alt="Laravel" src="https://img.shields.io/badge/Laravel-e30000.svg?logo=laravel&logoColor=white"></a>
   <a href="#"><img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind CSS-00c2b5.svg?logo=tailwindcss&logoColor=white"></a>
   <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
   <a href="#"><img alt="React" src="https://img.shields.io/badge/React Native-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
