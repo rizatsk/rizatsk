@@ -47,6 +47,7 @@ I enjoy exploring new tech stacks 💻—such as Node.js, React/Next.js, React N
   <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
   <a href="#"><img alt="React" src="https://img.shields.io/badge/React Native-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
   <a href="#"><img alt="React" src="https://img.shields.io/badge/React JS-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
+  <a href="#"><img alt="Redux" src="https://img.shields.io/badge/Redux-20232a.svg?logo=redux&logoColor=%2361DAFB"></a>
   <a href="#"><img alt="Jest" src="https://img.shields.io/badge/Jest-690404.svg?logo=jest&logoColor=white"></a>
   <a href="#"><img alt="Kafka" src="https://img.shields.io/badge/Kafka-000000.svg?logo=kafka&logoColor=white"></a>
   <a href="#"><img alt="Rabbit MQ" src="https://img.shields.io/badge/RabbitMQ-e34000.svg?logo=rabbitmq&logoColor=white"></a>
